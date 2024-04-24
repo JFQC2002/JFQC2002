@@ -40,7 +40,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/fernandoquirozc"><img src="https://img.shields.io/badge/-Fernando%20Quiroz%20Castillo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/ferquirozzzc/"><img src="https://img.shields.io/badge/-@ferquirozzzc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.pinterest.com.mx/jfqc120/"><img src="https://img.shields.io/badge/-@jfqc120-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 
 </p>
 
