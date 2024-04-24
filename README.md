@@ -10,7 +10,7 @@
 🎓 &nbsp;I'm currently pursuing a Bachelor's degree in Information Technology Engineering at Benemérita Universidad Autónoma de Puebla (BUAP).\
 🌱 &nbsp;I'm on track for learning more about Servers, Artificial Intelligence, and Cloud Architecture.\
 ✉️ &nbsp;You can shoot me on Linkedin at <a href="https://linkedin.com/in/fernandoquirozc">in/fernandoquirozc</a> I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.ferquiroz.com/resume.html) for more details about me.
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/14bIy7RFFb0N3ce-8JJ6qDqhJJ1kBP1kX/view?usp=sharing) for more details about me.
 <br><br>
 
 ### 🛠 &nbsp;Tech Stack
